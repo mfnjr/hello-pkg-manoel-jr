@@ -1,0 +1,3 @@
+# requirements.txt
+# Liste aqui as dependências do seu pacote, por exemplo:
+# requests>=2.0
